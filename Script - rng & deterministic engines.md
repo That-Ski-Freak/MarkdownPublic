@@ -4,7 +4,6 @@
 ----
 
 
-We often take for granted that when we do the same thing multiple times, we’ll get the same result each time. This is so engrained in us that it led to that old saying about insanity (insanity ‘definiton’ inserted here). If that definition is to be believed, then perhaps unreal engine and Minecraft bedrock edition are truly insane.
 
 
 We often take for granted that when we do the same thing multiple times, we’ll get the same result each time. 
