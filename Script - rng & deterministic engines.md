@@ -3,7 +3,7 @@
 
 A VERY rough draft.
 
-This video is mostly just a vehicle to talk about pf and trackmania being deterministic, mc bedrock redstone weirdness, and the card game bit at the end, in a way that is somewhat cohesive.
+This video is mostly just a vehicle to talk about some vaguely related topics: pf and trackmania being deterministic, mc bedrock redstone weirdness, fighting games being weird and forcing 60fps, and the card game bit at the end, in a way that is somewhat cohesive.
 
 ----
 
