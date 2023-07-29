@@ -39,7 +39,7 @@ Obviously these are all just technicalities, almost every map in trackmania is r
 
 There is another practical use for the game being deterministic, however. Back in tmnf and tm2, before there were official online leaderboards, replay files collected on player made websites and servers were how you kept track of who had the best times. The input data for these replays was unencrypted, and the game actually had a feature to verify the legitimacy of a given replay. This is possible because you can just play back those inputs, and if it matches the time on the replay, then you know the replay wasn't driven using speed hacks for example.
 
-{damn it i forgot to talk about fighting games, put it here}
+{damn it i forgot to talk about fighting games, I'll put it here later. they are notable for this video because they also control the frame rate in order to make everything visually conistent and have everything that ever happens in the game be communitcated to to the players in the same way each time}
 
 While rather cool and interesting, a lot of these benefits of having aspects of a game be deterministic simply don't matter for most games, so it makes sense that many aren't. You may recall hearing another fun fact however, that computers are not truly random. Why then, aren't all games deterministic by default?
 
