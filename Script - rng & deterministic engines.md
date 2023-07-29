@@ -1,6 +1,7 @@
 ----
 "deterministic engines & when games play themselves"
 A VERY rough draft.
+This video is mostly just a vehicle to talk about pf and trackmania being deterministic, and the card game bit at the end, in a way that is somewhat cohesive.
 
 ----
 
