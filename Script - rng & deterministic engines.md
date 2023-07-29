@@ -1,5 +1,6 @@
 ----
 "deterministic engines & when games play themselves"
+A VERY rough draft.
 
 ----
 
