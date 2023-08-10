@@ -4,6 +4,8 @@
 ----
 This is the history of the ultra shortcut, by summoning salt, one of the most famous and recognizable speedrunning youtubers. It's a fascinating documentary about how Mario Kart Wii players were able to completely break certain tracks, creating some incredible shortcuts. This video alone has over 12 million views. Mario kart Wii sold 37 million copies. About a thousand people have speedran mario kart wii.
 
+{nobody cares about speedrunning title}
+
 Speedrunning is a relatively simple concept, finish a game or complete a goal as fast as possible. Players have been competing to be the fastest to beat various games for decades, even before the internet, but it really took off in the 2010s* when speedruns and related videos gained immense popularity on youtube. Despite this, the player base for actually speedrunning remains microscopic to this day compared to the tens of millions of people worldwide who enjoy watching speedrun videos and livestreams.
 
 It is undeniable that there is at least a perceived barrier to entry to speedrun most games. Being expected to read community made rules, record yourself, and submit your attempt to a 3rd party website is a bit more involved than downloading a new game and playing it. Many may also get the impression that they need a fancy timer or certain mods or to learn a complex route simply to get started. Some games are only available on console or emulator, the former of which may be harder to record from and the latter can be a bit of a process to set up, but even pc games never seem to have a big speedrunning scene either.
@@ -28,12 +30,14 @@ People are fascinated with cheaters. Speedrun cheating videos have long been ext
 {that's right, we're gonna cheat clip}
 
 Now what if an entire game fell into this same problem, a game with near zero advertisement and popular content that doesn't reflect what a normal player would do.
-{explain what tm is and how the gameplay loop is similar to speedrunning}
+
+Trackmania is a racing game that, in essence, condenses the gameplay loop of speedrunning down to individual short, fast paced tracks. There's a lot more to the game, for example live races against other players such as the cup of the day, and powerful editor tools that allow for the creation of some truly insane race tracks, but the main way most people interact with the game is trying to set fast times on individual levels.
+
 If you've heard of trackmania, it was probably in one of a few ways. You may have seen press forward maps, auto levels with crazy flips where you simply hold a single input and the map drives itself. These have always been popular on youtube and have in recent years gained a new {following} as common background visual stimulation footage for tiktoks. These are visually cool, and there is a certain craft to building this kind of track, but they obviously don't reflect actual gameplay at all and most viewers will never think twice about the game that made them possible.
 
 The most popular content creator for trackmania by far is wirtual, who makes videos similar to that of some speedrunning channels. Many of these videos feature records, tricks, and shortcuts, unique challenges, and more, often in an older entry in the series, trackmania nations forever. Just like speedrunning videos, you don't have to look far into the comments to see people talking about how they've never played the game and love the video.
 
-You wouldn't think it's weird if I said that 15 million view Press Forward map videos & tiktok backgrounds don't attract many people to the game, and really press forward maps are about as different as uberbug world record grinders are to the gameplay loop of typical players. Most trackmania players are not grinding incredibly inconsistent shortcuts and trying to get perfect runs, the appeal to trackmania is in a way the same as speedrunning: it's fun to try to improve and set faster times. {just rip something from the veritas video for this part he probably wrote something nice already}.
+You wouldn't think it's weird if I said that 15 million view Press Forward map videos & tiktok backgrounds don't attract many people to the game, and really press forward maps are about as different as uberbug world record grinders are to the gameplay loop of typical players. Most trackmania players are not grinding incredibly inconsistent shortcuts and trying to get perfect runs, the appeal to trackmania is in a way the same as speedrunning: it's fun to try to improve your personal best, reaching for your own goal.
 
 Trackmania isn't a big game by any stretch of the imagination, but it's not dead either. The barrier to entry to trackmania is much lower than speedrunning a game, even though the gameplay loop has an obvious resemblance.
 
@@ -50,9 +54,6 @@ In fact, recently we saw the perfect example of a game that could have benefited
 This video isn't meant to say that any of the content I mentioned is bad, I quite like a lot of it. In the end all publicity may be good publicity, but in the absence of developer support you'll need a lot more than good to convince people to speedrun.
 
 Thanks for watching.
-
-
-Note: make and record both trackmania explaining bits
 
 ---
 
