@@ -1,7 +1,9 @@
 # Project Gamma Drafting Card Game / Custom Cube
 
 *This information is a work in progress*
+
 *Anything in {curly brackets} is a temporary name.*
+
 You can find the card and realm design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
 
 
