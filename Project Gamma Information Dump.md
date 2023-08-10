@@ -44,7 +44,7 @@ Step 5 - End of combat.
 - Hand - Your hand.
 
 ## 7 Realms
-We have 7 realms, it's basically the colors in magic. Learn more in the card and realm design spreadsheet[here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
+We have 7 realms, it's basically the colors in magic. Learn more in the card and realm design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
 
 ### Banked resources:
 You may bank up to 2 {mana} at a time. This mana may only be used to play spells. (not sure if we should allow any floating mana to just be added to the bank at the end of the round or not, in the end it's just whatever is simplest). The realm/color of the mana is preserved in the bank, it doesn't become realmless or wild card mana or whatever.
