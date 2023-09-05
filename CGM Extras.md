@@ -4,7 +4,7 @@ Information page
 [[card game distribution]] useful
 
 
-
+### thesis:
 Is it even possible to create a model that will finance a paper card game and not be horrible? The failure of the expandable card games is worrying along with the success of flesh and blood for example
 
 Games: magic the gathering, flesh and blood,  pokemon, yu gi oh, netrunner, ashes, hearthstone, mtgo, magic arena, legends of runeterra, artifact, marvel snap
@@ -20,6 +20,8 @@ Models: TCG/ccg, lcg/expandable card game, the different digital ones
 
 ### Questions:
 - what is marvel snap up to?
+- lorcana???
+- is there an alternative to local game stores? I feel like all I hear about them is that they are losing money and as far as I can tell they basically function as a big room with tables most of the time when it comes to magic.
 
 List of info:
 - wotc can't mention the cards being worth money
@@ -41,11 +43,16 @@ List of info:
 - instances of wotc being very tone deaf and ignorant to people being upset with their bs
 - hasbro plan to double money they make from wotc
 - probably mention my own project
+- just saying 'oh reprint more cards' 'print more of the cards people actually play that cost more' will only get you so far, the actual structure needs to change in order to actually achieve the goals of reducing card prices & xyz, and the structure needs to be in place so that things don't shift to become worse over time as the owners of the game are slowly incentivized to inch closer and closer to things that are worse for the game and good for profits.
+- we must create a model that aligns the interests of the players with the interests of the creators of the game.
 
 Magic spesifically:
 - 30th anniversary, how did we get here?
 - pro tour
 - the reserved list
+- more products?
+- the truth is magic has always been changing, it's always been better in some ways and worse in others, and when players enter the game they get used to and like the way things currently are, so when it changes the people who were not only used to how it was but possibly that was the reason they were playing the game are probably not going to like it. Is a game where theres stuff from diff ips a bad idea? no, but the playerbase always came for the current thing
+- challenger decks and precursors
 - 
 
 
