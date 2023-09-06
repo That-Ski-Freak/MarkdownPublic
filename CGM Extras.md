@@ -10,6 +10,7 @@ Is it even possible to create a model that will finance a paper card game and no
 Games: magic the gathering, flesh and blood,  pokemon, yu gi oh, netrunner, ashes, hearthstone, mtgo, magic arena, legends of runeterra, artifact, marvel snap
 
 Models: TCG/ccg, lcg/expandable card game, the different digital ones
+keyforge?
 
 ### Reading list:
 -  mtg arena is fundamentally broken - mtggoldfish https://www.youtube.com/watch?v=cPUTqFAifQs&pp=ygUgbWFnaWMgdGhlIGdhdGhlcmluZyBtb25ldGl6YXRpb24%3D
@@ -20,7 +21,7 @@ Models: TCG/ccg, lcg/expandable card game, the different digital ones
 
 ### Questions:
 - what is marvel snap up to?
-- lorcana???
+- lorcana? keyforge? what are these games doing?
 - is there an alternative to local game stores? I feel like all I hear about them is that they are losing money and as far as I can tell they basically function as a big room with tables most of the time when it comes to magic.
 
 List of info:
