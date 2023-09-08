@@ -41,9 +41,8 @@ Step 5 - End of combat.
 - Discard pile - When cards are destroyed or discarded, they go here.
 - Hand - Your hand.
 
-## 7 Realms (actually probably going to be 5)
+### 7 Realms (actually probably going to be 5)
 We have 7 realms, it's basically the colors in magic. Learn more in the card and realm design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
-
 ### Card Types:
 There are multiple card types:
 - Unit - it's exactly what you expect etc etc
@@ -51,7 +50,6 @@ There are multiple card types:
 - {nonunit} - Any non unit {permanent} will have whatever the non unit type is. Non units will have sub types just like units.
 - Spell - it's what you expect etc etc
 Any cards with these types may also may have sub types.
-
 ### Playing Cards:
 Each card has a certain {speed}, indicating the time it can be played at. These will be printed on the cards as a symbol, similar to card types, and are not tied to any card type.
 - normal speed cards that can only be played when you have priority during the main phase and no other cards or effects are on the stack
@@ -64,7 +62,7 @@ When you play a card, you pay it's cost and put it onto the stack. Your opponent
 Many cards in project gamma are split cards, which can be played as one side or the other. Unless otherwise stated on the card, you cannot play both halves at once.
 
 ### Resource & draw system:
-- All cards in hand can be pitched into the pitch pile to make 1 mana/resource of one of their realms.
+- All cards in hand can be pitched into the pitch pile to make 1 mana/resource of one of their realms (or any realm in the case of realmless cards).
 - At the end of the round the following steps are carried out:
 	- Each player may pitch any additional cards they choose, revealing them and putting them into their pitch pile.
 	- Each player takes all cards from their pitch pile and puts them on the top and/or bottom of their deck in any order/combination, then draws that many cards + 2
@@ -73,17 +71,17 @@ Many cards in project gamma are split cards, which can be played as one side or 
 - Claims still exist and when you play them draw a card as well as sticking around to make mana/resource from tapping. Claims ensure that you do not run out of mana as the game goes on and you use up your cards.
 
 ### Starting claim:
-When you construct your deck you also choose a starting {basic claim}. This claim will be added to your hand at the beginning of the game. You will also begin with 1 banked mana of the same realm/color.
+When you construct your deck you also choose a starting {basic claim}. This claim will be added to your hand at the beginning of the game.
 
 ### Starting the game:
 To start the game, randomly determine the first player. Each player then shuffles their deck, reveals their starting claim, and draws 10 cards, keeping 5 and putting the other 5 on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, each player puts their starting claim into their hand. Now begin the first round of the game, priority starting with the first player as randomly determined. The first player will have priority first on odd rounds, and the second player will have priority first on even rounds.
 
 ## Formats and ways to play the game:
 
-These are all just potential ideas. All played in best 2/3
+These are all just potential ideas. All can be played in best 2/3 or best of one.
 - Draft. It's cube draft.
 - Constructed: 40 total cards, max 3x of each, 15 card sideboard.
-- Highlander: 60 or 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all realmless. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with claim count since you are changing the number of non claims, we'll have to figure a solution to that out later). 
+- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all realmless. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with claim count since you are changing the number of non claims, we'll have to figure a solution to that out later). 
 - Experimental: fast cycle format. 20 cards, and you cycle through them
 
 ---
