@@ -60,7 +60,7 @@ Each card has a certain {speed}, indicating the time it can be played at. These 
 
 When you play a card, you pay it's cost and put it onto the stack. Your opponent is then given priority to respond. When both players pass, *all* cards and effects on the stack are resolved in first in last out order. To reiterate: you pay the cost when you play a card, and it does it's effect when it resolves. (When the last card/effect on the stack resolved, priority is passed to the player who did not start the stack. I'm not 100% on how to word this or all the ways in which it is relevant, but it essentially needs to exist because of how a shared round works. If you think about it in terms of magic, when you resolve a card for example a creature coming into play priority just goes to the active player (the person who's turn it is), but this obviously doesn't work with a shared round, the other person needs to get their turn to play.)
 
-[Split card mockup]([https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584](https://media.discordapp.net/attachments/836870887214284850/1139241009918791790/Pasted_image_20230810080745.png))
+[Split card mockup](https://media.discordapp.net/attachments/836870887214284850/1149823439494987806/Delverer.png)
 Many cards in project gamma are split cards, which can be played as one side or the other. Unless otherwise stated on the card, you cannot play both halves at once.
 
 ### Resource & draw system:
