@@ -17,12 +17,13 @@ During each round players will take turns playing cards and taking actions. Thes
 
 
 ### Round Phases:
-1 - beginning of turn ({untap}, beginning step, draw 1 card.)
-- {Untap} all your cards in play, put all {tapped} cards in your discard pile on the bottom of your deck, then {tap} all cards in your discard pile.
+1 - beginning of turn ({untap}, beginning step)
+- {Untap} all your cards in play.
 - If a card refers to the start of the round, it happens here.
-- Both players draw a card.
+
 2 - Main phase
 - Players take turns taking actions.
+
 3 - End of turn
 - Do end of turn things, then discard down to max hand size and start the next round.
 
