@@ -9,12 +9,10 @@ Project Gamma is a drafting and deck building card game for 2-8 players with a f
 In games you will play units and attack your opponent to reduce their life to 0 (starting at 20), but within this there is a lot of room for different strategies! The game is played in a dynamic shared round system, and seeks to reduce non-games to a minimum. You will look to leverage hidden information, tempo, and card advantage to overcome your opponent and win the game.
 # Rules for playing the game:
 ### Shared Round
-During each round players will take turns playing cards and taking actions. These actions include: Playing a card/ability, {cycling}, attacking, and passing.
+During each round players will take turns playing cards and taking actions. These actions include: Playing a card/ability, attacking, and passing.
 - Pass - When both players pass, if cards are being played, all cards resolve, and if no cards are being played, move onto the next phase. Everything basically revolves around this double pass system, both players pass, then everything resolves and/or you move to the next step/phase.
 - Playing a card/ability - To play a card or ability you pay it's cost at it's specified time and put it on the table, at which point priority passes to your opponent. Your opponent can then choose to take an action or pass. When both players pass, all cards currently being played are resolved from order of most recently played to first played. Costs are always payed immediately, and cards only do what they say when they resolve.
-- {Cycling} - At any time at {fast} speed you may pay 1 to discard a card and draw a card. Players can respond to this action just like cards and abilities. The first time you do this each round it costs 0.
-- Attacking - At {slow} speed during the main phase you may start an attack. Players can respond to this action just like cards and abilities. You may only attack once per round.
-
+- Attacking - At {slow} speed during the main phase you may start an attack. Players can respond to this action just like cards and abilities, and when it resolves you will enter the combat phase. You may only attack once per round.
 
 ### Round Phases:
 1 - beginning of turn ({untap}, beginning step)
@@ -34,7 +32,8 @@ Step 2 - Active player may either declare 1 attacker and move combat to step 3, 
 Step 3 - Defending player is given priority, and may take an action. In addition to normal actions, the defending player may also declare any number of their units as blockers for the current attacking unit and pass (this may only be done once, and then the blockers are locked in). After combat step 3, move back to combat step 2.
 Step 4 - Damage. The attacking player is given priority. After a double pass occurs, all attacking units deal damage equal to their attack value to the defending player etc etc and move to step 5.
 Step 5 - End of combat.
-- note, both attacking and blocking causes units to {tap}, and you cannot attack or block with tapped units.
+- Both attacking and blocking causes units to {tap}, and you cannot attack or block with tapped units.
+- After combat, the game returns to the main phase and the player who was defending is given priority.
 
 ### Zones:
 - Deck - Your deck of cards.
