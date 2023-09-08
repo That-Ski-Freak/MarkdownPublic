@@ -87,6 +87,8 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 ---
 # But why?
 
+Note that the rest of this document was written before the current resource systme was made.
+
 In the second portion of this document, I will outline the reasons why everything is the way it is at the moment. This will essentially be an information dump on the game design side of things, rather than the information needed to play the game. This may be a bit of a mess unfortunately because there are a lot of thoughts and I haven't organized them before. If you have questions on anything here or absent, I have probably just forgotten to write it down in this markdown document so I'll be happy to fish out my reasoning from the past discord messages and supply it.
 
 So, a few things from other card games to start off with, that I have not been the biggest fan of in the past:
