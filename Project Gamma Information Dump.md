@@ -62,7 +62,7 @@ When you play a card, you pay it's cost and put it onto the stack. Your opponent
 Many cards in project gamma are split cards, which can be played as one side or the other. Unless otherwise stated on the card, you cannot play both halves at once.
 
 ### Resource & draw system:
-- All cards in hand can be pitched into the pitch pile to make 1 mana/resource of one of their realms (or any realm in the case of realmless cards).
+- All cards in hand can be pitched/channeled into the channel pile/zone to produce 1 mana/resource of one of their realms (or any realm in the case of realmless cards).
 - At the end of the round the following steps are carried out:
 	- Each player may pitch any additional cards they choose, revealing them and putting them into their pitch pile.
 	- Each player takes all cards from their pitch pile and puts them on the top and/or bottom of their deck in any order/combination, then draws that many cards + 2
@@ -86,8 +86,6 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 
 ---
 # But why?
-
-Note that the rest of this document was written before the current resource systme was made.
 
 In the second portion of this document, I will outline the reasons why everything is the way it is at the moment. This will essentially be an information dump on the game design side of things, rather than the information needed to play the game. This may be a bit of a mess unfortunately because there are a lot of thoughts and I haven't organized them before. If you have questions on anything here or absent, I have probably just forgotten to write it down in this markdown document so I'll be happy to fish out my reasoning from the past discord messages and supply it.
 
