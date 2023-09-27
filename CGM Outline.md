@@ -1,7 +1,7 @@
-- In the early 90s richard garfield and co created magic the gathering
-	- quick rundown of where we are now. How did we get here?
-	- There have been countless other games, different models, pc and mobile games, but it seems like few if any have really fixed things from a consumer perspective
+I havent really tried to make an outline yet, but this is what I currently have written down randomly
 
+begin with calling it mana clash?
+jump to m30 maybe?, how did we get here
 
 - beginning
 	- In the early 90s richard garfield and co created magic the gathering
