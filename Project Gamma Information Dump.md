@@ -112,6 +112,15 @@ The core of the shared round vs normal turn system is a simple trade off: the de
 
 Also gets rid of play/draw diff (mostly, hopefully) lol
 
+#### Split cards
+A large amount of cards are going to be split cards, basically anything that doesn't have too much text will be a split between two cards that are relatively simple (edit: anything that is very complex will probably just be split with a basic land). This allows for more choices and makes it easier to force decks into playing the kind of cards that make the game better and more interesting (namely different types of interaction). For example, you can include small interaction for the discard pile or stack, so that you don't need silver bullets. You can include combat tricks so that they will still be available even if they aren't powerful on their own. You can include interaction so that decks will incidentally have access to it even if they don't desire it as highly as cheap aggressive dudes or accelerants for a combo.
+
+Split cards also could be a huge boon to cube/draft. I am sadly not very experienced in building cubes, but I believe having a critical mass of support for different kinds of strategies is important, which means making cards that are useful in multiple different kinds of decks. Split cards could be an *amazing* way to do this. A cube with say, 50-70% split cards, I would imagine could support more unique decks/archetypes and possibilities than one without them. One of the issues that more synergy heavy cubes run into is having to include cards that only work in one deck, we can solve that by designing cards to work in multiple areas and be more open ended, as well as by simply having 2 cards on each card 4head.
+
+Split cards can also help limit cards that are very polarizing, and extremely powerful in some situations and useless in others, by giving them a sort of floor. They can also lead to interesting design spaces, such as one half being the same effect a bit better but only sorcery speed.
+
+Split cards also can fill the role of many mechanics, for example kicker, flashback, basically 90% of magic mechanics can be templated as a split card, which in the context of a game that doesn't have a million sets yet that need to be themed around different things, is good.
+
 #### Lands and resource inconsistency
 The following is outdated, however, starting claim + the pitch/resource system fills the same role.
 
@@ -131,15 +140,6 @@ So, we wanted to make combat more dynamic and interesting. The combat system des
 
 #### Speaking of interaction: instant speed tricks / combat tricks
 Combat tricks, whether they are buffs or just direct damage or other instant speed tricks, are kind of the core of what makes combat interesting in magic. Without this aspect of hidden information, combat becomes a simple math problem and deciding what will be best for you long term (the latter of which is meaningful to be fair). Thing is, tricks tend to just not be that powerful in magic and often you don't have many resources available during your opponent's combat (this is obviously different in the case of a shared round!).
-
-#### Split cards
-A large amount of cards are going to be split cards, basically anything that doesn't have too much text will be a split between two cards that are relatively simple. This allows for more choices and makes it easier to force decks into playing the kind of cards that make the game better and more interesting. For example, you can include small interaction for the discard pile or stack, so that you don't need silver bullets. You can include combat tricks so that they will still be available even if they aren't powerful on their own. You can include interaction so that decks will incidentally have access to it even if they don't want it.
-
-Split cards also could be a huge boon to cube/draft. I am sadly not very experienced in building cubes, but I believe having a critical mass of support for different kinds of strategies is important, which means making cards that are useful in multiple different kinds of decks. Split cards could be an *amazing* way to do this. A cube with say, 50-70% split cards, I would imagine could support more archetypes and possibilities than one without them.
-
-Split cards can also help limit cards that are very polarizing, and extremely powerful in some situations and useless in others, by giving them a sort of floor. They can also lead to interesting design spaces, such as one half being the same effect a bit better but only sorcery speed.
-
-Split cards also can fill the role of many mechanics, for example kicker, flashback, basically 90% of magic mechanics can be templated as a split card, which in the context of a game that doesn't have a million sets yet that need to be themed around different things, is good.
 
 #### The highlander ft. mid match drafting format
 Something I wanted to attempt from the beginning is bringing the deckbuiding aspect into playing constructed. I already gave my thoughts on this when I first brought it up in the rules/information section, but yeah I think this is a really really good way of doing that. It could also be quite interesting as a high level format, as the best decks and strategies will shift slightly as the card pool constantly rotates. I think this is a really cool format idea, and if we do constructed at some point this is going to be the first way we do it probably, because I think it's really unique.
