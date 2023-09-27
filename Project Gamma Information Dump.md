@@ -1,8 +1,11 @@
 # Project Gamma Drafting Card Game / Custom Cube
 
-*This information is a work in progress*
-*Anything in {curly brackets} is a temporary name.*
-You can find the card and realm design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
+- *This information is a work in progress*
+- Some information in this document may be inconsistent or outdated as the project is actively being worked on.
+- Anything in {curly brackets} is a temporary name. The vocabulary is kind of a mess currently as the direction of the project remains uncertain.
+- This project currently exists in a sort of limbo between it's own game and a custom cube with it's own cards and rules.
+- Project Gamma is a temporary name.
+- You can find the card and realm(color) design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
 
 Project Gamma is a drafting and deck building card game for 2-8 players with a focus on varied, open ended deckbuilding, player agency, and interactive back and forth gameplay. It can be played as either a cube draft or constructed with decks made by players before the game. It will feature 360 cards when finished, although if I feel like it I might make more cards.
 
@@ -41,7 +44,7 @@ Step 5 - End of combat.
 - Discard pile - When cards are destroyed or discarded, they go here.
 - Hand - Your hand.
 
-### 7 Realms (actually probably going to be 5)
+### 7 Realms (actually probably going to be 5, because the new resource system will be unable to support 7 in draft.)
 We have 7 realms, it's basically the colors in magic. Learn more in the card and realm design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
 ### Card Types:
 There are multiple card types:
@@ -61,7 +64,7 @@ When you play a card, you pay it's cost and put it onto the stack. Your opponent
 [Split card mockup](https://media.discordapp.net/attachments/836870887214284850/1149823439494987806/Delverer.png)
 Many cards in project gamma are split cards, which can be played as one side or the other. Unless otherwise stated on the card, you cannot play both halves at once.
 
-### Resource & draw system:
+### Resource & draw system (this is the most important and original system):
 - All cards in hand can be pitched/channeled into the channel pile/zone to produce 1 mana/resource of one of their realms (or any realm in the case of realmless cards).
 - At the end of the round the following steps are carried out:
 	- Each player may pitch any additional cards they choose, revealing them and putting them into their pitch pile.
