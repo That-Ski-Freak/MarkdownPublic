@@ -6,6 +6,7 @@
 - This project currently exists in a sort of limbo between it's own game and a custom cube with it's own cards and rules.
 - Project Gamma is a temporary name.
 - You can find the card and realm(color) design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
+- This is likely going to be first and foremost focused on creating basically a cube for drafting, since then only one person needs to have the cards for multiple people to be able to play the game, which is particularly important considering this will end up just being a print and play thing.
 
 Project Gamma is a drafting and deck building card game for 2-8 players with a focus on varied, open ended deckbuilding, player agency, and interactive back and forth gameplay. It can be played as either a cube draft or constructed with decks made by players before the game. It will feature 360 cards when finished, although if I feel like it I might make more cards.
 
