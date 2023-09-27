@@ -67,10 +67,10 @@ Many cards in project gamma are split cards, which can be played as one side or 
 ### Resource & draw system (this is the most important and original system):
 - All cards in hand can be pitched/channeled into the channel pile/zone to produce 1 mana/resource of one of their realms (or any realm in the case of realmless cards).
 - At the end of the round the following steps are carried out:
-	- Each player may pitch any additional cards they choose, revealing them and putting them into their pitch pile.
-	- Each player takes all cards from their pitch pile and puts them on the top and/or bottom of their deck in any order/combination, then draws that many cards + 2
-	- Each player discards down to the maximum hand size of 10.
-- Note that pitching cards for mana does not use the stack, and cannot be responded to, however you may still only do it when you have priority.
+	- Each player may channel any additional cards they choose, revealing them and putting them into their channeled cards pile.
+	- Each player takes all cards from their channel pile and puts them on the top and/or bottom of their deck in any order/combination, then draws that many cards + 2
+	- Each player discards down to the maximum hand size of 10 (or maybe 8, probably 8).
+- Note that channeling cards for mana does not use the stack (or whatever response system we end up with, but probably the stack), and cannot be responded to, however you may still only do it when you have priority.
 - Claims still exist and when you play them draw a card as well as sticking around to make mana/resource from tapping. Claims ensure that you do not run out of mana as the game goes on and you use up your cards.
 
 ### Starting claim:
