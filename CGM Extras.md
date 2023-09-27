@@ -14,22 +14,10 @@ Games: magic the gathering, flesh and blood,  pokemon, yu gi oh, netrunner, ashe
 Models: TCG/ccg, lcg/expandable card game, the different digital ones
 keyforge?
 
-### Reading list:
--  mtg arena is fundamentally broken - mtggoldfish https://www.youtube.com/watch?v=cPUTqFAifQs&pp=ygUgbWFnaWMgdGhlIGdhdGhlcmluZyBtb25ldGl6YXRpb24%3D
-- what is rage of bahumut
-- magic's 30th anniversary is not for you https://www.youtube.com/watch?v=k15jCfYu3kc
-- https://www.reddit.com/r/Artifact/comments/a1ikq9/artifact_has_the_best_monetization_model_of_any/ artifact monetization
-- https://en.wikipedia.org/wiki/Digital_collectible_card_game wikipedia for card games https://en.wikipedia.org/wiki/Collectible_card_game 
-- https://massivelyop.com/2023/01/26/the-soapbox-comparing-the-monetization-of-physical-and-digital-card-games/ comparing monetization of physical and digital card games
-- Why is it tolerated? https://www.reddit.com/r/truegaming/comments/jye4az/why_are_card_games_tolerated_and_widely_accepted/
-- ![[Pasted image 20230927044214.png]]
-- ![[Pasted image 20230927044343.png]]
-- 
-
 
 ### Questions:
 - lorcana? keyforge? eternal? arena? what are these games doing?
-- is there an alternative to local game stores? I feel like all I hear about them is that they are losing money and as far as I can tell they basically function as a big room with tables most of the time when it comes to magic.
+- is there an alternative to local game stores? I feel like all I hear about them is that they are losing money and as far as I can tell they basically function as a big room with tables most of the time when it comes to magic unless you are buying singles. edit: the theoretical purpose beyond that a library could fill is that it is a place that has the product as well, so if collecting cards over time was actually effective the lgs would serve more of a purpose for players of a tcg, even if it's no longer needed as a fast way to buy expensive singles without ordering them in the mail.
 - japan vs us, other countries languages, how they tried their own things. 'I feel like japan and the gacha stuff is very similar, its all just packs/loot boxes with rarity etc, but ill look closer'
 
 **List of info:**
