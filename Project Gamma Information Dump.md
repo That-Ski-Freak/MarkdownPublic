@@ -79,7 +79,7 @@ Many cards in project gamma are split cards, which can be played as one side or 
 When you construct your deck you also choose a starting {basic claim}. This claim will be added to your hand at the beginning of the game.
 
 ### Starting the game:
-To start the game, randomly determine the first player. Each player then shuffles their deck, reveals their starting claim, and draws 10 cards, keeping 5 and putting the other 5 on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, each player puts their starting claim into their hand. Now begin the first round of the game, priority starting with the first player as randomly determined. The first player will have priority first on odd rounds, and the second player will have priority first on even rounds.
+To start the game, randomly determine the first player. Each player then shuffles their deck, reveals their starting claim, and draws (maybe 8, maybe 10, this can be adjsuted) cards, keeping 5 and putting the other 5 on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, each player puts their starting claim into their hand. Now begin the first round of the game, priority starting with the first player as randomly determined. The first player will have priority first on odd rounds, and the second player will have priority first on even rounds.
 
 ## Formats and ways to play the game:
 
