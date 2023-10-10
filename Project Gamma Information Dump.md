@@ -4,8 +4,8 @@
 - Some information in this document may be inconsistent or outdated as the project is actively being worked on.
 - Anything in {curly brackets} is a temporary name. The vocabulary is kind of a mess currently as the direction of the project remains uncertain.
 - This project currently exists in a sort of limbo between it's own game and a custom cube with it's own cards and rules.
-- Project Gamma is a temporary name.
-- You can find the card and realm(color) design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
+- Project Gamma is a temporary name. The project is being merged/using the world/setting of birdsandbees' tabletop rpg project.
+- You can find the card design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
 - This is likely going to be first and foremost focused on creating basically a cube for drafting, since then only one person needs to have the cards for multiple people to be able to play the game, which is particularly important considering this will end up just being a print and play thing.
 
 Project Gamma is a drafting and deck building card game for 2-8 players with a focus on varied, open ended deckbuilding, player agency, and interactive back and forth gameplay. It can be played as either a cube draft or constructed with decks made by players before the game. It will feature 360 cards when finished, although if I feel like it I might make more cards.
@@ -45,14 +45,15 @@ Step 5 - End of combat.
 - Discard pile - When cards are destroyed or discarded, they go here.
 - Hand - Your hand.
 
-### 7 Realms (actually probably going to be 5, because the new resource system will be unable to support 7 in draft.)
-We have 7 realms, it's basically the colors in magic. Learn more in the card and realm design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1942849584).
+### 5 different "colors" or kinds of cards etc
+they're going to be based off of something in birdsandbees' ttrpg world, so haven't decided on them yet.
+
 ### Card Types:
 There are multiple card types:
 - Unit - it's exactly what you expect etc etc
 - Claim - it's land etc etc. You {tap} your claims to pay for your cards, they make 1 {mana} and you may only play one each turn, at no cost.
 - {nonunit} - Any non unit {permanent} will have whatever the non unit type is. Non units will have sub types just like units.
-- Spell - it's what you expect etc etc
+- Action - Basically instant/sorcery, but they can have substypes like spell for example.
 Any cards with these types may also may have sub types.
 ### Playing Cards:
 Each card has a certain {speed}, indicating the time it can be played at. These will be printed on the cards as a symbol, similar to card types, and are not tied to any card type.
@@ -89,15 +90,10 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 - Experimental: fast cycle format. 20 cards, and you cycle through them
 
 ---
-# But why?
+# Old section explaining the reasoning for some of the things
+it's incredibly outdated for the most part though, only part I can garauntee doesnt have old stuff or things I disagree with is the resource and draw system part.
 
 In the second portion of this document, I will outline the reasons why everything is the way it is at the moment. This will essentially be an information dump on the game design side of things, rather than the information needed to play the game. This may be a bit of a mess unfortunately because there are a lot of thoughts and I haven't organized them before. If you have questions on anything here or absent, I have probably just forgotten to write it down in this markdown document so I'll be happy to fish out my reasoning from the past discord messages and supply it.
-
-So, a few things from other card games to start off with, that I have not been the biggest fan of in the past:
-
-- Non games. They suck. We need to reduce the number of non games as much as possible. 
-- Decisions need to actually matter. There's an insane skill ceiling in magic and many decisions to make, thing is, all too often your choices just don't matter. Also depending on the format it can be pretty boring to just lol i play my cards on curve.
-- A lot of other stuff that mostly hinges on card design.
 
 #### Resource system & pitching cards.
 some reasons why this could be very cool:
