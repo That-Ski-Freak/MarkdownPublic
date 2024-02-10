@@ -46,7 +46,7 @@ Step 5 - End of combat.
 - Hand - Your hand.
 
 ### 5 different "colors" or kinds of cards etc
-they're going to be based off of something in birdsandbees' ttrpg world, so haven't decided on them yet.
+they're going to be based off of something in birdsandbees' ttrpg world, so haven't decided on them yet. Edit: they're currently called sources.
 
 ### Card Types:
 There are multiple card types:
@@ -70,7 +70,7 @@ Many cards in project gamma are split cards, which can be played as one side or 
 - All cards in hand can be pitched/channeled into the channel pile/zone to produce 1 mana/resource of one of their realms (or any realm in the case of realmless cards).
 - At the end of the round the following steps are carried out:
 	- Each player may channel any additional cards they choose, revealing them and putting them into their channeled cards pile.
-	- Each player takes all cards from their channel pile and puts them on the top and/or bottom of their deck in any order/combination, then draws that many cards + 2
+	- Each player takes all cards from their channel pile and puts them on the top and/or bottom of their deck in any order/combination, then draws that many cards + 3
 	- Each player discards down to the maximum hand size of 10 (or maybe 8, probably 8).
 - Note that channeling cards for mana does not use the stack (or whatever response system we end up with, but probably the stack), and cannot be responded to, however you may still only do it when you have priority.
 - Claims still exist and when you play them draw a card as well as sticking around to make mana/resource from tapping. Claims ensure that you do not run out of mana as the game goes on and you use up your cards.
@@ -79,7 +79,7 @@ Many cards in project gamma are split cards, which can be played as one side or 
 When you construct your deck you also choose a starting {basic claim}. This claim will be added to your hand at the beginning of the game.
 
 ### Starting the game:
-To start the game, randomly determine the first player. Each player then shuffles their deck, reveals their starting claim, and draws (maybe 8, maybe 10, this can be adjsuted) cards, keeping 5 and putting the other 5 on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, each player puts their starting claim into their hand. Now begin the first round of the game, priority starting with the first player as randomly determined. The first player will have priority first on odd rounds, and the second player will have priority first on even rounds.
+To start the game, randomly determine the first player. Each player then shuffles their deck, reveals their starting claim, and draws (maybe 6, maybe 8, this can be adjsuted) cards, keeping 3 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, each player puts their starting claim into their hand. Now begin the first round of the game, priority starting with the first player as randomly determined. The first player will have priority first on odd rounds, and the second player will have priority first on even rounds.
 
 ## Formats and ways to play the game:
 
