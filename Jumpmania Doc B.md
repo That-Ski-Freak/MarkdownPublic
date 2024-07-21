@@ -1,6 +1,4 @@
 
----
-Update 7/20/2024
 
 - 2d Platformer
 - Pixel art with square tiles, slopes, and background shapes dings (for easy customization for mappers).
