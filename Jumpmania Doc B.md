@@ -1,0 +1,110 @@
+
+---
+Update 7/20/2024
+
+- 2d Platformer
+- Pixel art with square tiles, slopes, and background shapes dings (for easy customization for mappers).
+	- Pixel art would be relatively high res so things are visible when small and slopes look decent. Maybe 480x270 at default camera distance? How big the tiles should be idk.
+	- Slopes would come flat (90 degree), 45, and 22.5 (for walls, ceiling, and ground ofc, so 16 slopes over a 360 degree range / circle (i think?)). The limited number of slopes is kinda necessary for things to be consistently readable especially with pixel art.
+	- Using pixel art makes it easy for people to make custom tile sets and decorations. That is really important for what jumpmania is trying to be but I also just like it :)
+- Map editor
+- Online leaderboard for all maps, with ability to view records (not play against them)
+- Modes
+	- Mode which is single player timeattack for leaderboard/medals
+	- Mode which is 1v1 PEC with small amount of pvp? Kind of a cross between a race and a platform fighter almost.
+	- Mode which is just tm rounds stuff
+- Some kind of campaign / main official game/story
+- In game map sharing (like tmx but better, details written down elsewhere)
+- 
+
+---
+- You need variable amount of velocity and/or distance traveled (racing line) both relative to the environment / positioning, button timing, and/or analog inputs.
+- The fastest way to move must flow
+- Movement in all directions (up, down, and left-right) must all flow and feel distinct (left/right would be the same as each other obviously)
+- Changes to character moveset / abilities & different entities/objects in the environment form the variation in gameplay dings (surfaces/cars in tm / different dings in platformers).
+- Don't want too much insane input density for going fast on basic things, more about the timing and directional stuff.
+- The fastest way to gain speed on a plain open area must be rhythmic / timing based, not just repeating a few actions as quickly as possible over and over.
+- You should have a high agency to begin moving in a given direction at a relatively brisk pace at any given moment. You should be able to build momentum beyond that in (minor?) additive (and variable depending on execution) amounts in different ways.
+- Camera would be fairly far from the player character / player character should be small on default camera distance, probably a bit smaller than celeste, closer to dust force.
+- Hit/hurtboxes will need to be very clear and readable, since going close to stuff is part of going fast (probably).
+- A lot of the focus with making distinct things to go in levels should be the range of use for players as mappers. Similarly, a lot of what adds variety to different levels is going to come down to distinct objects or surfaces that can go in levels that you interact with in meaningfully different ways for going faster, and possibly also changes to the player character's moveset. 
+	- I unfortunately do not have many ideas for environmental things that would help here. Thinking about what would be interesting to try to go around as an obstacle in a fast way could be useful as well as how to use the objects themselves to go faster
+---
+- Jump button (right shoulder), dash button (letters/shapes), slide button (left shoulder). Analog stick/arrows for directional inputs. Use object, interact with environment, 3rd thing for anything else that might come up with abilities/power ups (all on letters/shapes).
+- Down diag = both fastfall and holding the left/right direction. Stick must be center to not be moving full force to the side. Dunno if up should do anything. These would be digital / binary / x directional.
+- While on the ground, left/right inputs make you run left/right, and vertical inputs do nothing.
+- Omnidirectional dash (with a bit of snapping to cardinal directions). Visual indicator of the direction you are pointing, small red line or something.
+- All jump/wavedash velocities must be relative to the slope of the surface you are on, not your entry angle.
+- U can walljump
+- 2 Dashes. Dash A, (usable in air or on ground) resets your momentum as you do the dash and spits you out with the set velocity in the direction you dashed, dash B (usable only dashing from air onto ground, it's like a grapple) converts all of your velocity into the direction of the grapple (& subsequently moving across the surface if you are also holding the slide button). These would be bound to the same button.
+	- When grappling onto a surface, you convert all your velocity to sliding on the surface (or only all of your total velocity in that direction?? prob not?)
+	- Grapple dash gives more speed relative to your positioning? For example the longer it pulls you / the further you are from the ground the faster you go (up to near the limit of the range, at which point the speed given starts to go down. Compare to under/overslide with sd). 
+	- If you grapple onto a surface and jump as you hit it (while not holding slide button), you will do a wavedash. This will give you a set amount of velocity relative to the angle of the surface (& technically the angle of your grapple into it determines which direction, it's 3 directional relative to the surface, you either bounce 45 degrees to one side, 45 to the other, or perpendicular to it). Wave timing would be fairly lenient, although the more imprecise you get it the slower the wave animation would be (you would still have the same distance/velocity by the end of the bounce). Notably you can wave off of any angled surface not just the ground.
+	- Should there be some way of canceling the grapple into something else? if so what would that do?
+- Maybe probably: Fastfall while you have upward velocity just increases your downward velocity. Fastfall while you have downward velocity converts your sideways velocity to downward velocity (until you reach the default air drift speed). This is to prevent gaining speed out of nowhere and then grappling.
+- Slide allows you to slide along a surface while preserving your speed (also lower hurt/collision box). You speed up for a moment as you begin the slide, and after that begin to slow down gradually.
+	- While you are sliding, directional inputs do nothing to your slide velocity.
+	- If you jump out of a slide you get another small speed bonus?
+	- You can jump out of your slide in 3 directions. Vertically, the direction you are sliding in, and the direction opposite to that. Which you do would just depend on your directional input relative to your slide velocity of course.
+	- Sliding lets you slide on surfaces that are to steep / upside down to walk on.
+	- Sliding up/down more vertical surfaces should have gravity slow you down/speed you up (speeding up only to the point of fast falling speed / running speed)?
+	- If you slide from one slope to another, if the angle is less than 180, you continue sliding on it, if it is greater than 180, you will fly off in the direction you were sliding at the speed you were sliding. I think my wording here is shit but im basically just saying it should do the intuitive thing.
+- If you land on a surface normally, your velocity in the direction perpendicular to that surface is preserved. This is true whether you are holding slide button or not, it is simply in contrast to grappling onto the surface.
+- If we implement a double jump you would have to have some way of consistently getting either double jump or wall jump, the one you want (otherwise it would be annoying to try to get the one you want by being the correct distance from the wall). We may want double jump anyway in the default moveset at least, but we prob do at least want one as an extra ability / power up.
+	- Maybe holding slide should just snap you onto the wall or ground if you are very close to it, and then from there you can do a wall jump. Then there isn't directional input garbage. So basically to do a wall jump you would just hold slide button and jump while near a wall.
+		- This ties into how grappling onto walls works, since grappling onto a wall, sliding, then jumping, would basically be the same as this, except here you cut out the part where you grapple onto the wall.
+	- Wall jumps ideally should have some amount of variable execution / skill to going fast. Not sure what that could be but its probably possible to make it somewhat unique. Probably useful for vertical movement, obviously. If they're just slide jumps then that's easy enough since the slide jump timing determines the dings.
+	- 
+- We probably want there to be some amount of air control/movement that doesn't involve resetting your speed. Fast fall is one but its rather minor as it only allows movement in a single direction. Double jump could be the other, the main worry there is that air dash + dash to ground + double jump could be too much maneuverability in the air. Double air dash in celeste is kind of a lot but not by thaaaat much. This really depends on how much utility you get out of the grapple/dash to ground, and how much utility you get out of a double jump. The jump/double jump would probably be fairly short anyway since wavedashes would fill the role of getting high off the ground. How much it on it's own would add to the optimization of movement is unclear since unlike directional air dash it doesnt have an omnidirectional angle aspect. You'd probably want double jump to add to vertical movement in a meaningful way, and/or have some general racing line like aspect to using it in a way that is fastest. Jumps would definitely have variable height depending on how long you hold the button (with fairly lenient short hops), so maybe that factors into things somehow. Timing/positioning your doublejump would need to have some optimization somehow.
+---
+- Checkpoints (with and without flying respawns like tm)
+	- Ability to order checkpoints
+- Rooms like other platforms to section off areas with potentially moving stuff
+- Camera
+	- Camera shouldn't be rigid but it should catch up to character quickly and then slowly begin to lead it a bit no matter how fast the character is going.
+	- Implementing something like the dust force camera would be reaaaaallly nice for smooth dings (although that must be built into the map as its basically a rail the camera snaps to, it's worth doing it i think because when it does work its super smooth)
+	- Camera settings should be generally editable with triggers/fields on maps
+- Dings that go on maps
+	- Tiles/slopes
+	- Entities/objects
+	- Trigger fields (its like media tracker, invisible and does stuff you set it to do)
+---
+Dings for maps
+- Springs (ones you have to dash into and ones you don't)
+- the core blocks from celeste but 4 directional (upright, bottomright, upleft, bottomleft) depending on which quadrant of the block you are on. These blocks would be dependent on you grappling onto them rather than climbing since no climbing
+	- Jump timing on the release point should be relevant for speed
+- Jump through platforms like terraria, but for all directions
+- slippery tiles?
+- Blocks that fall away / disappear when you step on them
+---
+Items / Extra Abilities
+- Extra dash
+- Bomb
+	- Either press button then countdown/fuse begins, or press button to detonate. Either way it should explode on its own when it hits something.
+	- 8 direction or all directions for throwing?
+	- When it explodes it launches you pretty quickly away from it, like a dash.
+	- in 1v1 mode it will ragdoll the opponent if they get hit by it, rather than launching them in a direction (which would be really inconsistent)
+- Maybe something where the timing of the release determines your angle like a grappling hook swing idk
+
+---
+1v1 mode stuff
+- There would be items/attacks the mapper can place on the map for players to pick up, and a few basic abilities that can be used whenever / once per airtime.
+- The level should repeat itself indefinitely. When you get to the end it should just be the beginning again, through some kind of portal to the beginning. Basically maps repeat indefinitely kinda like a fractal but not really because thats not what a fractal is.
+- Levers or things that change the map when you run past them to fuck with the opponent
+
+1v1 abilities / items / pickups
+- Basic parry (for 1v1)
+	- Usable once per airtime and any time on ground
+	- Push a button the moment you get hit to avoid the hit and (maybe) give opponent a bit of slow motion
+	- This would need to be made in a way that its doable for bad players and good players arent able to just parry everything
+- Basic sword (for 1v1)
+	- Only attack that can be used any time you want rather than having the map give it to you (once per airtime?)
+	- Very short range
+	- Either sends opp into ragdoll or just freezes/stuns the other player for a moment and then they keep traveling as normal.
+	- Must be some risk to using it. That may just be the risk of being parried depending on how that goes.
+	- Should be able to be combined with items to pressure opponent
+- Some kind of boost charge for burst movement, that just makes you go faster. Mario kart mushroom lol. Maybe make it more like the speedrunners boost ding though
+- Some kind of projectile pickup
+- A melee pickup
+- Drop a mario kart banana
+
