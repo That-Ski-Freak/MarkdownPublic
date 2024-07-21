@@ -27,6 +27,7 @@
 - Hit/hurtboxes will need to be very clear and readable, since going close to stuff is part of going fast (probably).
 - A lot of the focus with making distinct things to go in levels should be the range of use for players as mappers. Similarly, a lot of what adds variety to different levels is going to come down to distinct objects or surfaces that can go in levels that you interact with in meaningfully different ways for going faster, and possibly also changes to the player character's moveset. 
 	- I unfortunately do not have many ideas for environmental things that would help here. Thinking about what would be interesting to try to go around as an obstacle in a fast way could be useful as well as how to use the objects themselves to go faster
+- Having risky and slower strats is a lot more practical in a 2d platformer than trackmania, because 2d and the greater relative freedom of movement makes it way easier to meet up both routes if building on purpose, and alternate strats tend to have fewer flow/quality issues.
 ---
 - Jump button (right shoulder), dash button (letters/shapes), slide button (left shoulder). Analog stick/arrows for directional inputs. Use object, interact with environment, 3rd thing for anything else that might come up with abilities/power ups (all on letters/shapes).
 - Down diag = both fastfall and holding the left/right direction. Stick must be center to not be moving full force to the side. Dunno if up should do anything. These would be digital / binary / x directional.
