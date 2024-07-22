@@ -81,8 +81,10 @@ Dings for maps
 - Tiles that fall away / disappear when you step on them
 - Ground that doesn't count as landing on the ground for refreshing your dash/double jump (& probably also version that crumbles when you step on it).
 - Tiles you cannot grapple onto.
+	- Maybe we should have some kind of consistent texture for things you cannot grapple onto and things that don't reset your jump/dash and other similar stuff so it can be applied to any entity/surface
 - localized wind / fan?
 - The station movers from modded celeste but not limited to cardinal movement
+- Some 
 ---
 Items / Extra Abilities
 - Extra dash
@@ -98,6 +100,8 @@ Items / Extra Abilities
 - There would be items/attacks the mapper can place on the map for players to pick up, and a few basic abilities that can be used whenever / once per airtime.
 - The level should repeat itself indefinitely. When you get to the end it should just be the beginning again, through some kind of portal to the beginning. Basically maps repeat indefinitely kinda like a fractal but not really because thats not what a fractal is.
 - Players should generally be able to interact even when one is a bit further ahead than the other, both in terms of attacks and dodging things.
+	- It might be quite a task to try to get a nice balance with spacing and having close races work. It might be easy for things to fall into a pattern where the equilibrium is players being rather far apart. Then again maybe if the pattern is get close, one player wins 'neutral', then the other player has to catch up, maybe that's fine. 
+- Maybe maps/versions of the mode should have varying degrees of pvp focus vs racing focus?
 
 Level dings
 - Levers or things that change the map when you run past them to fuck with the opponent
