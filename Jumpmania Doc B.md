@@ -78,11 +78,12 @@ Dings for maps
 - Jump through platforms like terraria, but for all directions
 - slippery tiles?
 - Blocks that fall away / disappear when you step on them
+- localized wind / fan?
 ---
 Items / Extra Abilities
 - Extra dash
 - Bomb
-	- Either press button then countdown/fuse begins, or press button to detonate. Either way it should explode on its own when it hits something.
+	- Either press button then countdown/fuse begins, or press button to detonate. Either way it should explode on its own when it hits something. Prob want a pretty decent radius 
 	- 8 direction or all directions for throwing?
 	- When it explodes it launches you pretty quickly away from it, like a dash.
 	- in 1v1 mode it will ragdoll the opponent if they get hit by it, rather than launching them in a direction (which would be really inconsistent)
@@ -92,7 +93,12 @@ Items / Extra Abilities
 1v1 mode stuff
 - There would be items/attacks the mapper can place on the map for players to pick up, and a few basic abilities that can be used whenever / once per airtime.
 - The level should repeat itself indefinitely. When you get to the end it should just be the beginning again, through some kind of portal to the beginning. Basically maps repeat indefinitely kinda like a fractal but not really because thats not what a fractal is.
+- Players should generally be able to interact even when one is a bit further ahead than the other, both in terms of attacks and dodging things.
+
+Level dings
 - Levers or things that change the map when you run past them to fuck with the opponent
+- Tiles that slow you down rather than completely stop you if you hit them.
+- 
 
 1v1 abilities / items / pickups
 - Basic parry (for 1v1)
@@ -101,12 +107,14 @@ Items / Extra Abilities
 	- This would need to be made in a way that its doable for bad players and good players arent able to just parry everything
 - Basic sword (for 1v1)
 	- Only attack that can be used any time you want rather than having the map give it to you (once per airtime?)
-	- Very short range
+	- Short range
 	- Either sends opp into ragdoll or just freezes/stuns the other player for a moment and then they keep traveling as normal.
 	- Must be some risk to using it. That may just be the risk of being parried depending on how that goes.
 	- Should be able to be combined with items to pressure opponent
 - Some kind of boost charge for burst movement, that just makes you go faster. Mario kart mushroom lol. Maybe make it more like the speedrunners boost ding though
 - Some kind of projectile pickup
-- A melee pickup
-- Drop a mario kart banana
+- A melee pickup / bigger sword slash
+- Drop a mario kart banana(s)
+- Laser?
+- Indiana jones boulder xd
 
