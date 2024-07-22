@@ -28,6 +28,7 @@
 - A lot of the focus with making distinct things to go in levels should be the range of use for players as mappers. Similarly, a lot of what adds variety to different levels is going to come down to distinct objects or surfaces that can go in levels that you interact with in meaningfully different ways for going faster, and possibly also changes to the player character's moveset. 
 	- I unfortunately do not have many ideas for environmental things that would help here. Thinking about what would be interesting to try to go around as an obstacle in a fast way could be useful as well as how to use the objects themselves to go faster
 - Having risky and slower strats is a lot more practical in a 2d platformer than trackmania, because 2d and the greater relative freedom of movement makes it way easier to meet up both routes if building on purpose, and alternate strats tend to have fewer flow/quality issues.
+- With all of the mechanics with variable degrees of execution, it would be good to have a consistent visual language to when you are doing things well or not. For example have the player character change colors during animations for moves, a different color at the beginning, point at which it is best to push the button, and then time after that
 ---
 - Jump button (right shoulder), dash button (letters/shapes), slide button (left shoulder). Analog stick/arrows for directional inputs. Use object, interact with environment, 3rd thing for anything else that might come up with abilities/power ups (all on letters/shapes).
 - Down diag = both fastfall and holding the left/right direction. Stick must be center to not be moving full force to the side. Dunno if up should do anything. These would be digital / binary / x directional.
@@ -40,8 +41,9 @@
 	- Grapple dash gives more speed relative to your positioning? For example the longer it pulls you / the further you are from the ground the faster you go (up to near the limit of the range, at which point the speed given starts to go down. Compare to under/overslide with sd). 
 	- If you grapple onto a surface and jump as you hit it (while not holding slide button), you will do a wavedash. This will give you a set amount of velocity relative to the angle of the surface (& technically the angle of your grapple into it determines which direction, it's 3 directional relative to the surface, you either bounce 45 degrees to one side, 45 to the other, or perpendicular to it). Wave timing would be fairly lenient, although the more imprecise you get it the slower the wave animation would be (you would still have the same distance/velocity by the end of the bounce). Notably you can wave off of any angled surface not just the ground.
 	- Should there be some way of canceling the grapple into something else? if so what would that do?
-- Maybe probably: Fastfall while you have upward velocity just increases your downward velocity. Fastfall while you have downward velocity converts your sideways velocity to downward velocity (until you reach the default air drift speed). This is to prevent gaining speed out of nowhere and then grappling.
-- Slide allows you to slide along a surface while preserving your speed (also lower hurt/collision box). You speed up for a moment as you begin the slide, and after that begin to slow down gradually.
+- Maybe: Fastfall while you have upward velocity just increases your downward velocity. Fastfall while you have downward velocity converts your sideways velocity to downward velocity (until you reach the default air drift speed). 
+	- This would be to prevent gaining speed for free and then grappling. There may be a better way to achieve that, it really depends on how the momentum conversion feels to play with (it might be nice or feel bad). If the falling or fast fall speed is similar to the vertical speed you get from double jumping this may be unnecessary, since then it would be a nice trade off between whether you have the space to fast fall and get a higher speed or if you want to just jump right before you grapple.
+- Slide allows you to slide along a surface while preserving your speed (also lower hurt/collision box). You speed up for a moment as you begin the slide, and after that begin to slow down gradually (this could be based on distance slid rather than time so it is not always the same input?).
 	- While you are sliding, directional inputs do nothing to your slide velocity.
 	- If you jump out of a slide you get another small speed bonus?
 	- You can jump out of your slide in 3 directions. Vertically, the direction you are sliding in, and the direction opposite to that. Which you do would just depend on your directional input relative to your slide velocity of course.
@@ -63,11 +65,12 @@
 	- Camera shouldn't be rigid but it should catch up to character quickly and then slowly begin to lead it a bit no matter how fast the character is going.
 	- Implementing something like the dust force camera would be reaaaaallly nice for smooth dings (although that must be built into the map as its basically a rail the camera snaps to, it's worth doing it i think because when it does work its super smooth)
 	- Camera settings should be generally editable with triggers/fields on maps
+- For the main campaign, can do a kind of knowledge based almost metroidvania kinda thing. Where you have a hub connected to levels, but in order to work your way through the hub, instead of having it restrict you based on level completion, it just has skillful platforming that tests you on mechanics used in the levels on that area of the hub. So the point at which you can move on to the next levels is just when you're good enough and have the knowledge.
+---
 - Dings that go on maps
 	- Tiles/slopes
 	- Entities/objects
 	- Trigger fields (its like media tracker, invisible and does stuff you set it to do)
----
 Dings for maps
 - Springs (ones you have to dash into and ones you don't)
 - the core blocks from celeste but 4 directional (upright, bottomright, upleft, bottomleft) depending on which quadrant of the block you are on. These blocks would be dependent on you grappling onto them rather than climbing since no climbing
