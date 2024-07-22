@@ -57,6 +57,7 @@
 	- Wall jumps ideally should have some amount of variable execution / skill to going fast. Not sure what that could be but its probably possible to make it somewhat unique. Probably useful for vertical movement, obviously. If they're just slide jumps then that's easy enough since the slide jump timing determines the dings.
 	- 
 - We probably want there to be some amount of air control/movement that doesn't involve resetting your speed. Fast fall is one but its rather minor as it only allows movement in a single direction. Double jump could be the other, the main worry there is that air dash + dash to ground + double jump could be too much maneuverability in the air. Double air dash in celeste is kind of a lot but not by thaaaat much. This really depends on how much utility you get out of the grapple/dash to ground, and how much utility you get out of a double jump. The jump/double jump would probably be fairly short anyway since wavedashes would fill the role of getting high off the ground. How much it on it's own would add to the optimization of movement is unclear since unlike directional air dash it doesnt have an omnidirectional angle aspect. You'd probably want double jump to add to vertical movement in a meaningful way, and/or have some general racing line like aspect to using it in a way that is fastest. Jumps would definitely have variable height depending on how long you hold the button (with fairly lenient short hops), so maybe that factors into things somehow. Timing/positioning your doublejump would need to have some optimization somehow.
+- What should count as landing on the ground to reset your dash/double jump? Flat, 22.5, and 45 degree slopes certainly all count as ground, but probably not 67.5 or 90 degrees which would basically be walls. 
 ---
 - Checkpoints (with and without flying respawns like tm)
 	- Ability to order checkpoints
@@ -76,9 +77,12 @@ Dings for maps
 - the core blocks from celeste but 4 directional (upright, bottomright, upleft, bottomleft) depending on which quadrant of the block you are on. These blocks would be dependent on you grappling onto them rather than climbing since no climbing
 	- Jump timing on the release point should be relevant for speed
 - Jump through platforms like terraria, but for all directions
-- slippery tiles?
-- Blocks that fall away / disappear when you step on them
+- slippery tiles? ice?
+- Tiles that fall away / disappear when you step on them
+- Ground that doesn't count as landing on the ground for refreshing your dash/double jump (& probably also version that crumbles when you step on it).
+- Tiles you cannot grapple onto.
 - localized wind / fan?
+- The station movers from modded celeste but not limited to cardinal movement
 ---
 Items / Extra Abilities
 - Extra dash
